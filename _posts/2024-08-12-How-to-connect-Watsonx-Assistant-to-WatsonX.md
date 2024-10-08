@@ -8,7 +8,7 @@ header:
   caption: "A year spent in artificial intelligence is enough to make one believe in God. —Alan Perlis"
   
 ---
-
+## Introduction
 **Watsonx** is IBM's platform that helps businesses use Data and AI. It includes tools for training, testing, and using AI, especially generative AI through Large Language Models (LLMs) in the **watsonx.ai** part of the platform. One of the features of **IBM watsonx Assistant** is how easily it can connect to AI services like **watsonx.ai**. This guide will show you how to set up this connection.
 
 This tutorial gives a simple example of how to integrate these two services. If you want to learn more about all the features of **watsonx Assistant**, check out the [Official documentation](https://cloud.ibm.com/docs/watson-assistant?topic=watson-assistant-welcome-new-assistant).  
