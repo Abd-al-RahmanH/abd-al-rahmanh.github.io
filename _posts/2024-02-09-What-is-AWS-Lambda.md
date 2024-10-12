@@ -3,8 +3,8 @@ title: "What is AWS Lambda?: A Complete Guide with Python Example and Triggering
 excerpt: "Discover how to use AWS Lambda, Python code, and IAM roles to build serverless functions."
 
 header:
-  image: "../assets/images/posts/2024-02-09-What-is-AWS-Lambda/cover.png"
-  teaser: "../assets/images/posts/2024-02-09-What-is-AWS-Lambda/cover.png"
+  image: "../assets/images/posts/2024-02-09-What-is-AWS-Lambda/cover.jpg"
+  teaser: "../assets/images/posts/2024-02-09-What-is-AWS-Lambda/cover.jpg"
   caption: "Serverless Functions in the Cloud — Abdul Rahman"
 
 categories: [AWS, Lambda, Cloud, Python]
