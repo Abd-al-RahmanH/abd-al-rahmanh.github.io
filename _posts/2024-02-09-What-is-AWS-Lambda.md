@@ -11,7 +11,7 @@ categories: [AWS, Lambda, Cloud, Python]
 tags: [AWS, Lambda, Serverless, IAM, Python,]
 ---
 
-# What is AWS Lambda: A Complete Guide with Python Example and Triggering IAM Role
+## Introduction
 
 AWS Lambda is a serverless computing service that allows you to run code without provisioning or managing servers. With Lambda, you only pay for what you use, making it an efficient and scalable option for deploying functions in the cloud.
 
