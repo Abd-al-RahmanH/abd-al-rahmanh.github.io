@@ -18,9 +18,15 @@
     {% if site.author.bitbucket %}
       <li><a href="https://bitbucket.org/{{ site.author.bitbucket }}"><i class="fab fa-fw fa-bitbucket" aria-hidden="true"></i> Bitbucket</a></li>
     {% endif %}
+      {% if site.author.huggingface %}
+      <li><a href="https://huggingface.co/{{ site.author.huggingface }}"><i class="fas fa-fw fa-robot" aria-hidden="true"></i> Hugging Face</a></li>
+    {% endif %}
+    <!-- Remove or comment out the Buy Me a Coffee section -->
+    <!--
     {% if site.author.buymeacoffee %}
     <li><a href="https://www.buymeacoffee.com/{{ site.author.buymeacoffee }}"><i class="fab fa fa-coffee" aria-hidden="true"></i> Buymeacoffee</a></li>
     {% endif %}
+    -->
     <li><a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ '/feed.xml' | relative_url }}{% endif %}"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}</a></li>
   </ul>
 </div>
