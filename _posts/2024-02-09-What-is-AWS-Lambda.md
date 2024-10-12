@@ -1,5 +1,5 @@
 ---
-title: "What is AWS Lambda: A Complete Guide with Python Example and Triggering IAM Role"
+title: "What is AWS Lambda?: A Complete Guide with Python Example and Triggering IAM Role"
 excerpt: "Discover how to use AWS Lambda, Python code, and IAM roles to build serverless functions."
 
 header:
