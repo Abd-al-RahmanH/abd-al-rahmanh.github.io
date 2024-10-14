@@ -48,7 +48,7 @@ To install MongoDB on Windows:
 4. Once installed, you need to configure the MongoDB path.
 
 ```bash
-C:\Program Files\MongoDB\Server\in
+C:\Program Files\MongoDB\Server\bin
 ```
 
 Add this to the Windows environment variables (`Path`) to access MongoDB commands from anywhere in the command line.
