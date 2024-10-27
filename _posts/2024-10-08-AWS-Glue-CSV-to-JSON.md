@@ -53,7 +53,7 @@ In this project, we’ll build an automated pipeline to convert CSV files stored
    - `destination-json-bucket`
    - `glue-script-bucket`
 
-   **Interactive Icon**: ![S3 Icon](https://github.com/Abd-al-RahmanH/AWS-Data-Engineering/blob/main/Projects/AWS%20Glue%20Convert%20CSV%20to%20JSON%20in%20S3%20using%20Lambda/assets/images/1.jpg?raw=true)
+![S3 Icon](https://github.com/Abd-al-RahmanH/AWS-Data-Engineering/blob/main/Projects/AWS%20Glue%20Convert%20CSV%20to%20JSON%20in%20S3%20using%20Lambda/assets/images/1.jpg?raw=true)
 
 ---
 
@@ -65,7 +65,7 @@ In this project, we’ll build an automated pipeline to convert CSV files stored
    - **Target**: `destination-json-bucket`, format JSON.
    - **Script Path**: Stored in the `glue-script-bucket`.
 
-   ![glue](https://github.com/Abd-al-RahmanH/AWS-Data-Engineering/blob/main/Projects/AWS%20Glue%20Convert%20CSV%20to%20JSON%20in%20S3%20using%20Lambda/assets/images/2.jpg?raw=true)
+![glue](https://github.com/Abd-al-RahmanH/AWS-Data-Engineering/blob/main/Projects/AWS%20Glue%20Convert%20CSV%20to%20JSON%20in%20S3%20using%20Lambda/assets/images/2.jpg?raw=true)
 
 ---
 
@@ -84,7 +84,7 @@ In this project, we’ll build an automated pipeline to convert CSV files stored
        return "Job started"
    ```
 
-   ![Lambda Icon](https://github.com/Abd-al-RahmanH/AWS-Data-Engineering/blob/main/Projects/AWS%20Glue%20Convert%20CSV%20to%20JSON%20in%20S3%20using%20Lambda/assets/images/3.jpg?raw=true)
+![Lambda Icon](https://github.com/Abd-al-RahmanH/AWS-Data-Engineering/blob/main/Projects/AWS%20Glue%20Convert%20CSV%20to%20JSON%20in%20S3%20using%20Lambda/assets/images/3.jpg?raw=true)
 
 ---
 
@@ -94,14 +94,14 @@ In this project, we’ll build an automated pipeline to convert CSV files stored
      - `AmazonS3FullAccess`
      - `AWSLambdaBasicExecutionRole`
 
-   ![AWS IAM Permissions](https://github.com/Abd-al-RahmanH/AWS-Data-Engineering/blob/main/Projects/AWS%20Glue%20Convert%20CSV%20to%20JSON%20in%20S3%20using%20Lambda/assets/images/4.jpg?raw=true)
+![AWS IAM Permissions](https://github.com/Abd-al-RahmanH/AWS-Data-Engineering/blob/main/Projects/AWS%20Glue%20Convert%20CSV%20to%20JSON%20in%20S3%20using%20Lambda/assets/images/4.jpg?raw=true)
 
 ### 🔍 Step 4: Monitor the Pipeline
 
 - Use **CloudWatch Logs** to monitor the Lambda execution and Glue job status.
 - AWS Glue Console will provide job status updates.
 
-   **Interactive Icon**: ![CloudWatch Icon](https://github.com/Abd-al-RahmanH/AWS-Data-Engineering/blob/main/Projects/AWS%20Glue%20Convert%20CSV%20to%20JSON%20in%20S3%20using%20Lambda/assets/images/5.jpg?raw=true)
+![CloudWatch Icon](https://github.com/Abd-al-RahmanH/AWS-Data-Engineering/blob/main/Projects/AWS%20Glue%20Convert%20CSV%20to%20JSON%20in%20S3%20using%20Lambda/assets/images/5.jpg?raw=true)
 
 ---
 
