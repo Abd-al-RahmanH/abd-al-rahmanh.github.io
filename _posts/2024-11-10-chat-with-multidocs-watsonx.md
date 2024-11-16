@@ -2,8 +2,8 @@
 title: "Chat with Multiple Documents Using Streamlit and Watsonx"
 excerpt: "Explore how to build a Streamlit-powered app that uses IBM Watsonx and LangChain for retrieval-augmented generation (RAG) with multiple document types."
 header:
-  image: "../assets/images/posts/2024-11-10-chat-with-multidocs-watsonx/cover.jpg"
-  teaser: "../assets/images/posts/2024-11-10-chat-with-multidocs-watsonx/cover.jpg"
+  image: "../assets/images/posts/2024-11-10-chat-with-multidocs-watsonx/cover.jpeg"
+  teaser: "../assets/images/posts/2024-11-10-chat-with-multidocs-watsonx/cover.jpeg"
   caption: "Query multiple document types seamlessly using Watsonx and LangChain."
   categories: [Watsonx, Streamlit, RAG, LangChain]
   tags: [Watsonx.ai, Streamlit, LangChain, RAG, multi-document retrieval]
