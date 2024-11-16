@@ -91,7 +91,7 @@ cd Multi-Doc-Retrieval-Watsonx
 
 Create a `.env` file in the project directory with the following keys:
 
-```env
+```bash
 WATSONX_API_KEY=<your_watsonx_api_key>
 WATSONX_PROJECT_ID=<your_watsonx_project_id>
 ```
