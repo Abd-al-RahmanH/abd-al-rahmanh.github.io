@@ -43,7 +43,7 @@ Your foundation model must meet the following criteria to be deployed on watsonx
 - Available in **safetensors** format.
 - Includes `config.json` and `tokenizer.json` files.
 
-> **💡 Pro Tip:** You can verify these files exist for the Falcon-7B model on [Hugging Face](https://huggingface.co/tiiuae/falcon-7b).
+> **💡 Tip:** You can verify these files exist for the Falcon-7B model on [Hugging Face](https://huggingface.co/tiiuae/falcon-7b).
 
 ![Hugging face](../assets/images/posts/2024-12-10-falcon-7b-in-IBM-Cloud/1.jpg)
 ---
@@ -52,7 +52,7 @@ Your foundation model must meet the following criteria to be deployed on watsonx
 
 To download the Falcon-7B model on Windows:
 
-```cmd
+```bash
 # Set up a virtual environment
 python -m venv myenv
 myenv\Scripts\activate
@@ -80,7 +80,7 @@ huggingface-cli download %MODEL_NAME% --local-dir %MODEL_DIR% --cache-dir %MODEL
 
 Convert the model to meet TGI requirements for Text Generation:
 
-```cmd
+```bash
 # Pull the TGI image
 docker pull quay.io/modh/text-generation-inference:rhoai-2.8-58cac74
 
@@ -95,7 +95,7 @@ docker run --rm -v %MODEL_DIR%:/tmp quay.io/modh/text-generation-inference:rhoai
 
 Prepare and upload the model to IBM Cloud Object Storage:
 
-```cmd
+```bash
 # Install AWS CLI
 pip install awscli
 
@@ -142,7 +142,7 @@ After the Green Light you are ready to go..
 
 Use the watsonx.ai Prompt Lab or API to test your model:
 
-```cmd
+```bash
 curl -X POST "https://<your_cloud_hostname>/ml/v1/deployments/<deployment_id>/text/generation?version=2024-01-29" ^
 -H "Authorization: Bearer <your_token>" ^
 -H "Content-Type: application/json" ^
