@@ -65,6 +65,7 @@ Batch deployments process input data from files or data connections and write th
 
    - Input data location
    - Output data destination
+     
    ![](../assets/images/posts/2024-11-20-importing-models-in-watsonx.ai/8.jpg)
 
    - Scheduling details (if needed)
