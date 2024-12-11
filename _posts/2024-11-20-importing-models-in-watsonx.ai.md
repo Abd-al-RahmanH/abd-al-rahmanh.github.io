@@ -10,7 +10,7 @@ header:
   tags: [IBM Watson, AI Deployment, Machine Learning, Batch Processing]
 ---
 
-# Importing Models to IBM watsonx.ai 
+# Introduction
 
 IBM watsonx.ai  enables you to import machine learning models trained outside of its environment. The models can be stored in the watsonx.ai  repository (a Cloud Object Storage bucket) and optionally deployed for testing.
 
