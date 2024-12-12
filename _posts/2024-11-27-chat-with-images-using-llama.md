@@ -42,12 +42,6 @@ Let’s dive into creating a **Streamlit** app that connects with IBM’s vision
 
 1. An **IBM Cloud Account** with access to Watson AI services.
 2. **Python** installed on your machine.
-3. The following Python libraries:
-   - `streamlit`
-   - `Pillow`
-   - `requests`
-   - `python-dotenv`
-
 ---
 
 ## 🛠️ Code Implementation
@@ -215,8 +209,8 @@ if __name__ == "__main__":
 
 ## To run this program
 
-1. Save the above three parts in a single app.py file
-2. Create a requirements.txt file with the following content:
+### 1. Save the above three parts in a single app.py file
+### 2. Create a requirements.txt file with the following content:
   
 ```bash 
 streamlit
@@ -224,7 +218,7 @@ requests
 Pillow
 python-dotenv
 ```
-3. Setting Up and Running
+### 3. Setting Up and Running
 
 Set Up a Virtual Environment (Optional):
 ```bash
@@ -232,14 +226,23 @@ python -m venv venv
 source venv/bin/activate  # For Windows: `venv\Scripts\activate`
 
 ```
-4. Install Dependencies
+### 4. Install Dependencies
 
 ```bash
 pip install -r requirements.txt
 ```
-5. Run the app
+### 5. Run the app
 
 ```bash
 streamlit run app.py
 ```
-6.🎉 Try the Live App [Live app](https://huggingface.co/spaces/RAHMAN00700/chat_with_images_using_llama-3-2-90bvi) in your browser.
+## 6.🎉 Try the Live App [Live app](https://huggingface.co/spaces/RAHMAN00700/chat_with_images_using_llama-3-2-90bvi) in your browser.
+
+## Summary
+
+**Part 1**: Sets up essential libraries, authentication, and utility functions.
+**Part 2**: Manages user input, file uploads, and chat session states.
+**Part 3**: Integrates with IBM’s Watson AI API and handles AI-driven responses.
+
+Now you can build your app to combine visual data with conversational AI capabilities! 🚀
+
