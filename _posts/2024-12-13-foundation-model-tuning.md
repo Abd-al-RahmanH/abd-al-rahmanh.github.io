@@ -96,11 +96,6 @@ Select the task type that fits your goal:
 
 ![](../assets/images/posts/2024-12-13-foundation-model-tuning/5.jpg)   
 
-#### For Classification Tasks
-Add the desired class labels, ensuring they match your training data. For example:
-- *Positive*
-- *Negative*
-
 ### Step 5: Add Training Data
 
 1. Upload training data or use an existing project asset.
