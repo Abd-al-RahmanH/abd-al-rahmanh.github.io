@@ -14,7 +14,6 @@ tags: [Watsonx, AI, Foundation Models, Machine Learning]
 Tuning a foundation model is a crucial step in customizing AI systems to generate desired outputs efficiently. This guide provides an in-depth walkthrough of how to perform prompt tuning for foundation models using Watsonx.ai, including setting up a tuning experiment and optimizing for specific tasks.
 
 ---
-
 ## Requirements
 
 Before diving into tuning, ensure you have access to the **Projects** in Watsonx.ai. Note that availability varies by plan and data center. Confirm the foundation models available for tuning in your region.
@@ -28,7 +27,6 @@ To begin, a default project named `sandbox` is created for Watsonx.ai users. If 
 
 For additional project options like reporting or logging, refer to the **Creating a project**
 ---
-
 ## 🛠️ Before You Begin
 
 Make decisions about the following tuning options:
@@ -38,7 +36,6 @@ Make decisions about the following tuning options:
 
 2. **Prepare Example Prompts**:
    - Create example prompts based on your prompt engineering work. 
-
 ---
 ## Download the datasets from Hugging face
 
@@ -53,7 +50,6 @@ Make decisions about the following tuning options:
 3. **Upload the dataset to IBM cos or You can Upload it manually**   
 
 ## 🔧 How to Tune a Foundation Model
-
 ### Step 1: Start a Tuning Experiment
 
 1. From the Watsonx.ai home page, select your project.
@@ -95,7 +91,6 @@ Select the task type that fits your goal:
 - **Summarization**: Extract main ideas from text.
 
 ![](../assets/images/posts/2024-12-13-foundation-model-tuning/5.jpg)   
-
 ### Step 5: Add Training Data
 
 1. Upload training data or use an existing project asset.
@@ -114,7 +109,6 @@ Click **Start tuning** to begin the experiment. The duration depends on the data
 ![](../assets/images/posts/2024-12-13-foundation-model-tuning/6.jpg)   
 
 ---
-
 ## 🧩 Tips for Token Management
 
 Tokens are key units for natural language processing. Adjust token limits to optimize performance:
@@ -123,18 +117,13 @@ Tokens are key units for natural language processing. Adjust token limits to opt
 
 ### Example
 For classification tasks, reduce output size to encourage concise results (e.g., *Positive* or *Negative*).
-
 ---
-
 ## 📊 Evaluating the Tuning Experiment
 
 The experiment results include a loss function graph that visualizes model improvement:
 - **X-axis**: Epochs.
 - **Y-axis**: Difference between predicted and actual results.
-
-
 ---
-
 ## 🔧 Deploy a Tuned Model
 
 ### Steps to Deploy:
@@ -145,7 +134,6 @@ The experiment results include a loss function graph that visualizes model impro
 4. From the **Tuned models** list, locate the completed experiment and click **New deployment**.
 
 ![](../assets/images/posts/2024-12-13-foundation-model-tuning/7.jpg) 
-
 5. Provide a name for the tuned model. Optionally, add a description and tags.
 6. Select a deployment container:
    - **This project**: For testing within the project.
@@ -181,7 +169,6 @@ This the normal output from the untrained model
 ![](../assets/images/posts/2024-12-13-foundation-model-tuning/11.jpg) 
 
 ---
-
 ## Conclusion
 
 Tuning foundation models allows for customization that aligns AI outputs with your specific needs. By following this guide, you’ll maximize the potential of Watsonx.ai for your use cases.
