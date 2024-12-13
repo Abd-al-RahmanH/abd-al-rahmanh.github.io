@@ -88,6 +88,7 @@ def get_auth_token(api_key):
         return response.json().get("access_token")
     else:
         raise Exception("Failed to get authentication token")
+```
 
 ### Part 2: User Interaction and State Management
 
