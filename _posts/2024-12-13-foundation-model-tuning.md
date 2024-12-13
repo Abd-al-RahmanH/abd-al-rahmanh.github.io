@@ -36,16 +36,18 @@ Make decisions about the following tuning options:
 
 2. **Prepare Example Prompts**:
    - Create example prompts based on your prompt engineering work. 
----
+
 ## Download the datasets from Hugging face
 
 1. **Dataset Details**:
-   - In this Project I am using the [alespalla/chatbot_instructions_prompts](https://huggingface.co/datasets/alespalla/chatbot_instruction_prompts)
+   
+In this Project I am using the [alespalla/chatbot_instructions_prompts](https://huggingface.co/datasets/alespalla/chatbot_instruction_prompts)
 
 ![](../assets/images/posts/2024-12-13-foundation-model-tuning/1.jpg)   
 
 2. **Download and clean the dataset**:
-   - Download the dataset and change into json or jsonl format (eg.input-output fromat) 
+
+Download the dataset and change into json or jsonl format (eg.input-output fromat) 
 
 3. **Upload the dataset to IBM cos or You can Upload it manually**   
 
