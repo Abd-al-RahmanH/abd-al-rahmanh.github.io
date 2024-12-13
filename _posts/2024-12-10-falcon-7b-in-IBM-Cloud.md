@@ -1,5 +1,5 @@
 ---
-title: "Deploy Falcon-7B Foundation Model to IBM Cloud"
+title: "Deploying Falcon-7B from Hugging Face to Watsonx.ai Using IBM Cloud Storage"
 excerpt: "A step-by-step guide to importing and deploying the Falcon-7B foundation model from Hugging Face to IBM Cloud using watsonx.ai."
 date: "2024-12-10"
 header:
