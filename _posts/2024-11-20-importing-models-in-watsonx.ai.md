@@ -1,5 +1,5 @@
 ---
-title: "Importing Models and Creating Batch Deployments in IBM watsonx.ai "
+title: "Importing ML-Models and Creating Batch Deployments in IBM watsonx.ai "
 excerpt: "A step-by-step guide to importing machine learning models and creating batch deployments using IBM watsonx.ai."
 date: 2024-11-20
 header:
