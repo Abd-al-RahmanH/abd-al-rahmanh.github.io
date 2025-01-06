@@ -111,7 +111,7 @@ docker-compose up
 
 Access the Airflow UI at `http://localhost:8080` with the username `airflow` and password `airflow`.
 
-[](../assets/images/posts/2025-01-01-airflow-docker/1.jpg)
+![](../assets/images/posts/2025-01-01-airflow-docker/1.jpg)
 
 ---
 
@@ -175,21 +175,21 @@ with DAG(
 
     task1 >> [task2, task3]
 ```
-[](../assets/images/posts/2025-01-01-airflow-docker/2.jpg)
+![](../assets/images/posts/2025-01-01-airflow-docker/2.jpg)
 
 2. Save the file and refresh the Airflow UI (`http://localhost:8080`).
 
-[](../assets/images/posts/2025-01-01-airflow-docker/3.jpg)
+![](../assets/images/posts/2025-01-01-airflow-docker/3.jpg)
 
 3. Locate the newly added DAG, enable it, and click on the DAG to view its details.
 
-[](../assets/images/posts/2025-01-01-airflow-docker/4.jpg)
+![](../assets/images/posts/2025-01-01-airflow-docker/4.jpg)
 
 4. Trigger the DAG run manually by clicking the play button.
 
 5. Monitor the job status in the UI. You can view logs for each task by clicking on it in the Graph View or Tree View.
 
-[](../assets/images/posts/2025-01-01-airflow-docker/5.jpg)
+![](../assets/images/posts/2025-01-01-airflow-docker/5.jpg)
 
 6. Verify the job completion and review logs for insights.
 
