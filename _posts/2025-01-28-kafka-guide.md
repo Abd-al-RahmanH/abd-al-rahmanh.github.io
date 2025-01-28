@@ -28,7 +28,7 @@ Kafka's architecture comprises the following components:
 5. **Brokers**: Kafka servers that handle message storage and distribution.
 6. **ZooKeeper**: Manages cluster metadata and coordination.
 
-![](../assets/images/posts/2025-01-28-kafka-guide/1.jpg)
+![](../assets/images/posts/2025-01-28-kafka-guide/1.png)
 
 ### Key Features:
 - Distributed and Fault-Tolerant
