@@ -1,3 +1,4 @@
+---
 title: "Mastering Apache Kafka: A Comprehensive Guide"
 excerpt: "Learn everything about Apache Kafka, from architecture to practical commands, to master this powerful event-streaming platform."
 header:
