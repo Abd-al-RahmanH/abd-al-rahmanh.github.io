@@ -3,8 +3,8 @@ title: "How to Install Apache Airflow Using Docker and Write Your First DAG"
 excerpt: "Learn how to set up Apache Airflow using Docker, access the UI, and create your first DAG with BashOperators."
 
 header:
-  image: "../assets/images/posts/2025-01-01-airflow-docker/cover.png"
-  teaser: "../assets/images/posts/2025-01-01-airflow-docker/cover.png"
+  image: "../assets/images/posts/2025-01-01-airflow-docker/cover.jpg"
+  teaser: "../assets/images/posts/2025-01-01-airflow-docker/cover.jpg"
   caption: "Master Apache Airflow for seamless workflow orchestration."
   categories: [Apache Airflow, Docker, Workflow Orchestration]
   tags: [Airflow, Docker, Workflow, DAG, Python]
