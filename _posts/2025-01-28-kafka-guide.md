@@ -2,8 +2,8 @@
 title: "Mastering Apache Kafka: A Comprehensive Guide"
 excerpt: "Learn everything about Apache Kafka, from architecture to practical commands, to master this powerful event-streaming platform."
 header:
-  image: "../assets/images/posts/2025-01-28-kafka-guide/cover.png"
-  teaser: "../assets/images/posts/2025-01-28-kafka-guide/cover.png"
+  image: "../assets/images/posts/2025-01-28-kafka-guide/cover.jpg"
+  teaser: "../assets/images/posts/2025-01-28-kafka-guide/cover.jpg"
   caption: "Unleash the power of Apache Kafka for real-time data streaming."
   categories: [Apache Kafka, Data Engineering, Streaming]
   tags: [Kafka, Docker, Data Streaming, DevOps]
