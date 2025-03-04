@@ -2,7 +2,7 @@
 title: "PySpark for Data Engineers: Build Scalable Data Pipelines"
 excerpt: "Learn everything about PySpark, from its architecture to essential commands, to master big data processing."
 header:
-  image: "../assets/images/posts/2025-02-06-pyspark-guide/cover.jpg"
+  image: "../assets/images/posts/2025-02-06-pyspark-guide/cover1.jpg"
   teaser: "../assets/images/posts/2025-02-06-pyspark-guide/cover.jpg"
   caption: "Unleash the power of PySpark for scalable big data analytics."
 categories: [PySpark, Big Data, Cloud]
