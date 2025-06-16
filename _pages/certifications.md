@@ -54,6 +54,6 @@ These credentials reflect my capabilities across:
 - **Pre-sales and technical enablement**
 
 <figure>
-  <img src="/assets/images/certifications-cover.jpg" alt="Certifications">
+  <img src="/assets/images/cover/certifications-cover.jpg" alt="Certifications">
   <figcaption>Certifications that define my data engineering journey 🚀</figcaption>
 </figure>
