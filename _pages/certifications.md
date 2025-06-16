@@ -1,7 +1,7 @@
 ---
 title: "Certifications"
 layout: single
-excerpt: "A comprehensive list of certifications I've earned."
+excerpt: "Highlights of my key technical and sales certifications."
 sitemap: true
 permalink: /certifications
 author_profile: true
@@ -14,58 +14,46 @@ header:
   show_overlay_excerpt: false
 ---
 
-## Industry Certifications
+## 🎯 Key Certifications
+
+### 🧠 IBM & Watsonx Series
 
 <p><a href="https://www.ibm.com" title="Redirect to IBM Certifications">  
 <img src="../assets/images/certificationslogo/ibm-logo.jpg" width="120" alt="IBM Certifications" /></a></p>
 
-- **WatsonX Sales Foundations** – IBM, Issued Sept 2023  
-  Earned skills in demonstrating WatsonX platform capabilities to prospective clients.
+- **WatsonX Sales Foundation** – IBM  
+- **WatsonX Technical Sales Foundations** – IBM  
+- **WatsonX Assistant Technical Sales** – IBM  
+- **WatsonX Data Sales Foundation** – IBM  
+- **WatsonX Governance Technical Sales** – IBM  
+- **WatsonX Data Technical Sales** – IBM  
 
-- **WatsonX Technical Sales Foundations** – IBM, Issued Sept 2023  
-  Technical proficiency in the WatsonX platform, covering hands-on solutions and implementation strategies.
+---
 
-- **WatsonX Assistant Technical Sales** – IBM, Issued Sept 2023  
-  Expertise in designing and selling solutions utilizing WatsonX Assistant for conversational AI.
+### 🛠 Core Infra & Integration
+- **IBM MQ Technical Sales Intermediate** – IBM  
+- **IBM MQ Sales Foundation** – IBM  
+- **CloudPak for Business Automation Sales** – IBM  
+- **CloudPak for Integration Sales** – IBM  
+- **Red Hat Sales (via IBM)**  
 
-- **WatsonX Data Sales Foundations** – IBM, Issued Sept 2023  
-  Developed foundational knowledge of WatsonX Data capabilities and their business applications.
+---
 
-- **WatsonX Governance Technical Sales** – IBM, Issued Sept 2023  
-  Demonstrated understanding of WatsonX data governance and compliance features for enterprise use.
+### ☁️ Cloud, DevOps & Oracle
+- **Oracle Cloud Infrastructure Foundations** – Oracle  
+- **Oracle Database SQL Certified Associate** – Oracle  
+- **Oracle DevOps Professional** – Oracle  
 
-- **IBM MQ Technical Sales Intermediate** – IBM, Issued Sept 2023  
-  Intermediate knowledge of IBM MQ for reliable and scalable messaging across applications and systems.
+---
 
-## Professional Certifications
+### 🏅 Why It Matters
+These credentials reflect my capabilities across:
+- **Enterprise data platforms** (Watsonx, Oracle, CloudPak)
+- **Integration & messaging systems** (IBM MQ, Red Hat)
+- **Cloud & automation** (AWS, OCI, DevOps practices)
+- **Pre-sales and technical enablement**
 
-<p><a href="https://www.ibm.com" title="Redirect to IBM Certifications">  
-<img src="../assets/images/certificationslogo/ibm-logo.jpg" width="120" alt="IBM Certifications" /></a></p>
-
-- **Watson Assistant Practitioner** – IBM, Issued Aug 2023  
-  Hands-on experience in building conversational AI solutions using Watson Assistant.
-
-- **Watson Assistant Technical Sales** – IBM, Issued Aug 2023  
-  Mastery in selling and designing Watson Assistant implementations for various industries.
-
-- **Watson Assistant Practitioner (Advanced)** – IBM, Issued Aug 2023  
-  Advanced proficiency in using Watson Assistant to build sophisticated AI models for enterprise solutions.
-
-- **WatsonX Data Technical Sales** – IBM, Issued Sept 2023  
-  Technical knowledge of WatsonX Data architecture and solutions.
-
-- **IBM MQ Sales Foundations** – IBM, Issued Aug 2023  
-  Sales certification for IBM MQ, showcasing how to pitch messaging solutions to clients.
-
-## Additional Certifications
-
-- **CloudPak for Business Automation Sales** – IBM, Issued Sept 2023  
-  Certification in designing and selling automation solutions using IBM CloudPak.
-  
-- **CloudPak for Integration Sales** – IBM, Issued Aug 2023  
-  Integration solutions for digital transformation, focusing on IBM’s CloudPak platform.
-
-- **Red Hat Sales** – IBM, Issued Aug 2023  
-  Proficient in selling Red Hat solutions in the hybrid cloud space.
-
-<script async defer src="https://buttons.github.io/buttons.js"></script>
+<figure>
+  <img src="/assets/images/certifications-cover.jpg" alt="Certifications">
+  <figcaption>Certifications that define my data engineering journey 🚀</figcaption>
+</figure>
